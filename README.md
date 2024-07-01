@@ -1,4 +1,4 @@
-# Code for paper "Political dogwhistles and community divergence in semantic change"
+# Code for paper "Can political dogwhistles be predicted by distributional methods for analysis of lexical semantic change?"
 
 This repository contains the code for the paper "Can political dogwhistles be predicted by distributional methods for analysis of lexical semantic change?".
 
